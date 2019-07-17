@@ -12,7 +12,9 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 
 ### Semana 1
 *Aprenderemos estruturas de repetição;*
+
 **Assistir**:  vídeos [26](https://youtu.be/6ErHlkvZemo "26"), [27](https://youtu.be/1CEQ6M2_4Js "27"), [28](https://youtu.be/zFm7SmgzVbM "28"), [29](https://youtu.be/m40Zi2MJ6Pk "29"), [30](https://youtu.be/RY0QYbch30s "30"), [31](https://youtu.be/xZJLnZnPq-M "31") e [32](https://youtu.be/U7GeyoGkTVc "32")
+
 **Ler os artigos para complementar:**
 - [Iteração em C++](http://excript.com/cpp/iterador-cpp.html "Iteração em C++")
 - [Estrutura de Repetição for do C++](http://excript.com/cpp/estrutura-repeticao-for-cpp.html "Estrutura de Repetição for do C++")
