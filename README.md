@@ -24,4 +24,4 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 - [Programa em Looping em C++](http://excript.com/cpp/programa-looping-cpp.html "Programa em Looping em C++")
 - [Estrutura de Repetição do-while do C+](http://excript.com/cpp/estrutura-repeticao-do-while-cpp.html "Estrutura de Repetição do-while do C+")
 
-**Atividade:** Postar o print de um exemplo feito com recursos acima e ajudar turma 00
+**Atividade:** Postar o print de um exemplo feito com recursos acima e ajudar turma 00 já que é um Administrador do grupo C++ Univesp
