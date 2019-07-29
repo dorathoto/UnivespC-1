@@ -1,9 +1,6 @@
-
-===================================================
-
 Inicio: Módulo "1"
 
-Semana 1:
+Semana 1: (Loop)
     Iteração em C++
     Estrutura de Repetição for do C++
     Operadores de Incremento e Decremento do C++
@@ -45,7 +42,7 @@ Semana 4: (Array)
 	Aula 15 - Vetores - https://youtu.be/cdEccuCz34w
 	Aula 16 - Vetores de caracteres strings - https://youtu.be/NLTt1k-YXX0
 
-Semana 5:
+Semana 5: (Array Multimendicionais)
     Arrays Multidimensionais em C++
     Manipulação de Arrays Bidimensionais em C++
     Laços Aninhados
@@ -66,7 +63,11 @@ Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
 Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
 
 Fim: Módulo "1"
+
+Playlists
 https://www.youtube.com/playlist?list=PLC9E87254BD7A875B
+
+https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV
 
 =========================================================
 
