@@ -55,6 +55,7 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 Os vídeos estão dentro dos artigos, links abaixo:
 - [Operador Ternário do C++](http://excript.com/cpp/operador-ternario-cpp.html "Operador Ternário do C++")
 - [Operador Ternário do C++ (parte 2)](http://excript.com/cpp/operador-ternario-cpp-parte2.html "Operador Ternário do C++ (parte 2)")
+- OBS: Não recomendo o uso do operador ternário como ele mostra, pois devemos sempre pensar entre redução de código e legibilidade, https://pt.stackoverflow.com/questions/17398/diferen%c3%a7as-entre-if-e-operador-tern%c3%a1rio
 - [Instrução break do C++](http://excript.com/cpp/instrucao-break-cpp.html "Instrução break do C++")
 - [Instrução break do C++ (parte II)](http://excript.com/cpp/instrucao-break-cpp-parte2.html "Instrução break do C++ (parte II)")
 - [Instrução continue do C++](http://excript.com/cpp/instrucao-continue-cpp.html "Instrução continue do C++")
