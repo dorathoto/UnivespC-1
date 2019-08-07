@@ -1,6 +1,6 @@
 # Grupo 01 - 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-20%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-2-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-25%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-3-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 ------------
 
@@ -10,6 +10,38 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 
 ## Atividades Semanal
 > Nesse módulo as atividades são agrupado por assunto, diferente do módulo 00 que era por qtd. de vídeos, assim são mais vídeos, mas sobre o mesmo assunto. Cada semana tem carga horária estimada de 1h.
+
+### Semana 3: 03/08 à 10/08
+*(Operador Ternário, break, continue)*
+Os vídeos estão dentro dos artigos, links abaixo:
+- [Operador Ternário do C++](http://excript.com/cpp/operador-ternario-cpp.html "Operador Ternário do C++")
+- [Operador Ternário do C++ (parte 2)](http://excript.com/cpp/operador-ternario-cpp-parte2.html "Operador Ternário do C++ (parte 2)")
+- OBS: Não recomendo o uso do operador ternário como ele mostra, pois devemos sempre pensar entre redução de código e legibilidade, https://pt.stackoverflow.com/questions/17398/diferen%c3%a7as-entre-if-e-operador-tern%c3%a1rio
+- [Instrução break do C++](http://excript.com/cpp/instrucao-break-cpp.html "Instrução break do C++")
+- [Instrução break do C++ (parte II)](http://excript.com/cpp/instrucao-break-cpp-parte2.html "Instrução break do C++ (parte II)")
+- [Instrução continue do C++](http://excript.com/cpp/instrucao-continue-cpp.html "Instrução continue do C++")
+- [Precedência de Operadores do C++](http://excript.com/cpp/precedencia-operador-cpp.html "Precedência de Operadores do C++")
+- [Associatividade de Operadores em C++](http://excript.com/cpp/associatividade-operador-cpp.html "Associatividade de Operadores em C++")
+  
+
+------------
+
+### Semana 1 - 20/07 à 27/07
+*Aprenderemos estruturas de repetição;*
+
+**Assistir**:  vídeos [26](https://youtu.be/6ErHlkvZemo "26"), [27](https://youtu.be/1CEQ6M2_4Js "27"), [28](https://youtu.be/zFm7SmgzVbM "28"), [29](https://youtu.be/m40Zi2MJ6Pk "29"), [30](https://youtu.be/RY0QYbch30s "30"), [31](https://youtu.be/xZJLnZnPq-M "31") e [32](https://youtu.be/U7GeyoGkTVc "32")
+
+**Ler os artigos para complementar:**
+- [Iteração em C++](http://excript.com/cpp/iterador-cpp.html "Iteração em C++")
+- [Estrutura de Repetição for do C++](http://excript.com/cpp/estrutura-repeticao-for-cpp.html "Estrutura de Repetição for do C++")
+- [Operadores de Incremento e Decremento do C++](http://excript.com/cpp/operador-incremento-decremento-cpp.html "Operadores de Incremento e Decremento do C++")
+- [Tabuada em C++](http://excript.com/cpp/tabuada-cpp.html "Tabuada em C++")
+- [Estrutura de Repetição while do C++](http://excript.com/cpp/estrutura-repeticao-while-cpp.html "Estrutura de Repetição while do C++")
+- [Programa em Looping em C++](http://excript.com/cpp/programa-looping-cpp.html "Programa em Looping em C++")
+- [Estrutura de Repetição do-while do C+](http://excript.com/cpp/estrutura-repeticao-do-while-cpp.html "Estrutura de Repetição do-while do C+")
+
+**Atividade:** Postar o print de um exemplo feito com recursos acima e ajudar turma 00 já que é um Administrador do grupo C++ Univesp
+
 
 ### Semana 2 - 27/07 à 03/08
 *Aprenderemos Switch, Debug*
@@ -31,37 +63,6 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 
 ------------
 
-
-
-### Semana 1 - 20/07 à 27/07
-*Aprenderemos estruturas de repetição;*
-
-**Assistir**:  vídeos [26](https://youtu.be/6ErHlkvZemo "26"), [27](https://youtu.be/1CEQ6M2_4Js "27"), [28](https://youtu.be/zFm7SmgzVbM "28"), [29](https://youtu.be/m40Zi2MJ6Pk "29"), [30](https://youtu.be/RY0QYbch30s "30"), [31](https://youtu.be/xZJLnZnPq-M "31") e [32](https://youtu.be/U7GeyoGkTVc "32")
-
-**Ler os artigos para complementar:**
-- [Iteração em C++](http://excript.com/cpp/iterador-cpp.html "Iteração em C++")
-- [Estrutura de Repetição for do C++](http://excript.com/cpp/estrutura-repeticao-for-cpp.html "Estrutura de Repetição for do C++")
-- [Operadores de Incremento e Decremento do C++](http://excript.com/cpp/operador-incremento-decremento-cpp.html "Operadores de Incremento e Decremento do C++")
-- [Tabuada em C++](http://excript.com/cpp/tabuada-cpp.html "Tabuada em C++")
-- [Estrutura de Repetição while do C++](http://excript.com/cpp/estrutura-repeticao-while-cpp.html "Estrutura de Repetição while do C++")
-- [Programa em Looping em C++](http://excript.com/cpp/programa-looping-cpp.html "Programa em Looping em C++")
-- [Estrutura de Repetição do-while do C+](http://excript.com/cpp/estrutura-repeticao-do-while-cpp.html "Estrutura de Repetição do-while do C+")
-
-**Atividade:** Postar o print de um exemplo feito com recursos acima e ajudar turma 00 já que é um Administrador do grupo C++ Univesp
-
-------------
-### Semana 3: 03/08 à 10/08
-*(Operador Ternário, break, continue)*
-Os vídeos estão dentro dos artigos, links abaixo:
-- [Operador Ternário do C++](http://excript.com/cpp/operador-ternario-cpp.html "Operador Ternário do C++")
-- [Operador Ternário do C++ (parte 2)](http://excript.com/cpp/operador-ternario-cpp-parte2.html "Operador Ternário do C++ (parte 2)")
-- OBS: Não recomendo o uso do operador ternário como ele mostra, pois devemos sempre pensar entre redução de código e legibilidade, https://pt.stackoverflow.com/questions/17398/diferen%c3%a7as-entre-if-e-operador-tern%c3%a1rio
-- [Instrução break do C++](http://excript.com/cpp/instrucao-break-cpp.html "Instrução break do C++")
-- [Instrução break do C++ (parte II)](http://excript.com/cpp/instrucao-break-cpp-parte2.html "Instrução break do C++ (parte II)")
-- [Instrução continue do C++](http://excript.com/cpp/instrucao-continue-cpp.html "Instrução continue do C++")
-- [Precedência de Operadores do C++](http://excript.com/cpp/precedencia-operador-cpp.html "Precedência de Operadores do C++")
-- [Associatividade de Operadores em C++](http://excript.com/cpp/associatividade-operador-cpp.html "Associatividade de Operadores em C++")
-
 ### Semana 4:  10/08 à 17/08
 *(Array)*
 - [Introdução aos Arrays em C++](http://excript.com/cpp/introducao-array-cpp.html "Introdução aos Arrays em C++")
@@ -73,4 +74,4 @@ Os vídeos estão dentro dos artigos, links abaixo:
 
 ##### Plus:
 1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
-1. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
