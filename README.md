@@ -89,14 +89,14 @@ Os vídeos estão dentro dos artigos, links abaixo:
 	
 --------
 ##### Semana 6: (Funções)
-Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
-Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
-Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
-Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
+- Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
+- Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
+- Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
+- Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
 
 ##### Semana 7: (Ponteiros)
-Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
-Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
-Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
+- Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
+- Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
+- Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
 
 > **Fim: Módulo "1"**
