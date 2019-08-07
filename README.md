@@ -75,3 +75,28 @@ Os vídeos estão dentro dos artigos, links abaixo:
 ##### Plus:
 1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
 2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+
+### Semana 5: 17/08 à 24/08
+*(Array Multimendicionais)*
+
+- [Arrays Multidimensionais em C++](http://excript.com/cpp/array-multidimensional-cpp.html "Arrays Multidimensionais em C++")
+- [Manipulação de Arrays Bidimensionais em C++](http://excript.com/cpp/manipular-array-bidimensional-cpp.html "Manipulação de Arrays Bidimensionais em C++")
+- [Laços Aninhados](http://excript.com/cpp/lacos-aninhados-cpp.html "Laços Aninhados")
+- [Função Matricial em C++](http://excript.com/cpp/funcao-matricial-cpp.html "Função Matricial em C++")
+- [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
+- [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
+- [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
+	
+--------
+##### Semana 6: (Funções)
+Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
+Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
+Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
+Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
+
+##### Semana 7: (Ponteiros)
+Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
+Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
+Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
+
+> **Fim: Módulo "1"**
