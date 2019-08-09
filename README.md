@@ -73,8 +73,9 @@ Os vídeos estão dentro dos artigos, links abaixo:
 - [Calculando a Média Aritmética com Arrays em C++](http://excript.com/cpp/calcular-media-aritmetica-array-cpp.html "Calculando a Média Aritmética com Arrays em C++")
 
 ##### Plus:
-1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
-2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+1. Aula 20 - Constante - [https://youtu.be/gvKVnC2wWZA](https://youtu.be/gvKVnC2wWZA)
+2. Aula 21 - Argumentos Main() - [https://youtu.be/9VbAOtmK1rg](https://youtu.be/9VbAOtmK1rg)
+> OBS: Aula 21 tem o termo ponteiro, não se preocupe ainda, é semana 7
 
 ### Semana 5: 17/08 à 24/08
 *(Array Multimendicionais)*
@@ -86,17 +87,30 @@ Os vídeos estão dentro dos artigos, links abaixo:
 - [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
 - [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
 - [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
-	
+
+##### Plus:
+1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
+2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+
+
 --------
-##### Semana 6: (Funções)
+##### Semana 6: (Funções) 24/08 à 31/08
 - Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
 - Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
 - Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
 - Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
+##### Plus:
+1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
+2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
 
-##### Semana 7: (Ponteiros)
+##### Semana 7: (Ponteiros) 31/08 à 07/09
 - Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
 - Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
 - Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
+##### Plus:
+1. O que é Orientação a Objetos (OO) - [https://youtu.be/7nmJ2oGRrbc](https://youtu.be/7nmJ2oGRrbc)
+2. PQ OO ? [https://youtu.be/JDSglOBvhw8](https://youtu.be/JDSglOBvhw8)
 
 > **Fim: Módulo "1"**
+
+Módulo 02 será Orientação a Objeto.
