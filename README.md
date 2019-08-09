@@ -77,6 +77,7 @@ Os vídeos estão dentro dos artigos, links abaixo:
 2. Aula 21 - Argumentos Main() - [https://youtu.be/9VbAOtmK1rg](https://youtu.be/9VbAOtmK1rg)
 > OBS: Aula 21 tem o termo ponteiro, não se preocupe ainda, é semana 7
 
+
 ### Semana 5: 17/08 à 24/08
 *(Array Multimendicionais)*
 
@@ -102,6 +103,9 @@ Os vídeos estão dentro dos artigos, links abaixo:
 ##### Plus:
 1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
 2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
+3. Textos sobre C++11, C++14 e outros padrões da linguagem
+https://www.embarcados.com.br/introducao-ao-cpp11/
+https://pt.wikipedia.org/wiki/C%2B%2B14
 
 ##### Semana 7: (Ponteiros) 31/08 à 07/09
 - Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
