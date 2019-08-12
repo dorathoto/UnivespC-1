@@ -16,7 +16,7 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 - [Introdução aos Arrays em C++](http://excript.com/cpp/introducao-array-cpp.html "Introdução aos Arrays em C++")
 - [Declaração de Arrays em C++](http://excript.com/cpp/declarar-array-cpp.html "Declaração de Arrays em C++")
 - [Arrays - Definições em C++](http://excript.com/cpp/array-definicao-cpp.html "Arrays - Definições em C++")
--[ Inicialização de Arrays em C++](http://excript.com/cpp/inicializar-array-cpp.html " Inicialização de Arrays em C++")
+- [Inicialização de Arrays em C++](http://excript.com/cpp/inicializar-array-cpp.html " Inicialização de Arrays em C++")
 - [Percorrendo os Elementos de um Array em C++](http://excript.com/cpp/percorrer-elemento-array-cpp.html "Percorrendo os Elementos de um Array em C++")
 - [Calculando a Média Aritmética com Arrays em C++](http://excript.com/cpp/calcular-media-aritmetica-array-cpp.html "Calculando a Média Aritmética com Arrays em C++")
 
