@@ -1,6 +1,6 @@
 # Grupo 01 - 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-25%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-4-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-25%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-5-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 ------------
 
@@ -11,19 +11,21 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 ## Atividades Semanal
 > Nesse módulo as atividades são agrupado por assunto, diferente do módulo 00 que era por qtd. de vídeos, assim são mais vídeos, mas sobre o mesmo assunto. Cada semana tem carga horária estimada de 1h.
 
-### Semana 4:  10/08 à 17/08
-*(Array)*
-- [Introdução aos Arrays em C++](http://excript.com/cpp/introducao-array-cpp.html "Introdução aos Arrays em C++")
-- [Declaração de Arrays em C++](http://excript.com/cpp/declarar-array-cpp.html "Declaração de Arrays em C++")
-- [Arrays - Definições em C++](http://excript.com/cpp/array-definicao-cpp.html "Arrays - Definições em C++")
-- [Inicialização de Arrays em C++](http://excript.com/cpp/inicializar-array-cpp.html " Inicialização de Arrays em C++")
-- [Percorrendo os Elementos de um Array em C++](http://excript.com/cpp/percorrer-elemento-array-cpp.html "Percorrendo os Elementos de um Array em C++")
-- [Calculando a Média Aritmética com Arrays em C++](http://excript.com/cpp/calcular-media-aritmetica-array-cpp.html "Calculando a Média Aritmética com Arrays em C++")
+### Semana 5: 17/08 à 24/08
+*(Array Multimendicionais)*
+
+- [Arrays Multidimensionais em C++](http://excript.com/cpp/array-multidimensional-cpp.html "Arrays Multidimensionais em C++")
+- [Manipulação de Arrays Bidimensionais em C++](http://excript.com/cpp/manipular-array-bidimensional-cpp.html "Manipulação de Arrays Bidimensionais em C++")
+- [Laços Aninhados](http://excript.com/cpp/lacos-aninhados-cpp.html "Laços Aninhados")
+- [Função Matricial em C++](http://excript.com/cpp/funcao-matricial-cpp.html "Função Matricial em C++")
+- [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
+- [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
+- [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
 
 ##### Plus:
-1. Aula 20 - Constante - [https://youtu.be/gvKVnC2wWZA](https://youtu.be/gvKVnC2wWZA)
-2. Aula 21 - Argumentos Main() - [https://youtu.be/9VbAOtmK1rg](https://youtu.be/9VbAOtmK1rg)
-> OBS: Aula 21 tem o termo ponteiro, não se preocupe ainda, é semana 7
+1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
+2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+
 
 ------------
 
@@ -73,24 +75,23 @@ Os vídeos estão dentro dos artigos, links abaixo:
 - [Instrução continue do C++](http://excript.com/cpp/instrucao-continue-cpp.html "Instrução continue do C++")
 - [Precedência de Operadores do C++](http://excript.com/cpp/precedencia-operador-cpp.html "Precedência de Operadores do C++")
 - [Associatividade de Operadores em C++](http://excript.com/cpp/associatividade-operador-cpp.html "Associatividade de Operadores em C++")
-  
-------------
 
-### Semana 5: 17/08 à 24/08
-*(Array Multimendicionais)*
 
-- [Arrays Multidimensionais em C++](http://excript.com/cpp/array-multidimensional-cpp.html "Arrays Multidimensionais em C++")
-- [Manipulação de Arrays Bidimensionais em C++](http://excript.com/cpp/manipular-array-bidimensional-cpp.html "Manipulação de Arrays Bidimensionais em C++")
-- [Laços Aninhados](http://excript.com/cpp/lacos-aninhados-cpp.html "Laços Aninhados")
-- [Função Matricial em C++](http://excript.com/cpp/funcao-matricial-cpp.html "Função Matricial em C++")
-- [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
-- [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
-- [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
+### Semana 4:  10/08 à 17/08
+*(Array)*
+- [Introdução aos Arrays em C++](http://excript.com/cpp/introducao-array-cpp.html "Introdução aos Arrays em C++")
+- [Declaração de Arrays em C++](http://excript.com/cpp/declarar-array-cpp.html "Declaração de Arrays em C++")
+- [Arrays - Definições em C++](http://excript.com/cpp/array-definicao-cpp.html "Arrays - Definições em C++")
+- [Inicialização de Arrays em C++](http://excript.com/cpp/inicializar-array-cpp.html " Inicialização de Arrays em C++")
+- [Percorrendo os Elementos de um Array em C++](http://excript.com/cpp/percorrer-elemento-array-cpp.html "Percorrendo os Elementos de um Array em C++")
+- [Calculando a Média Aritmética com Arrays em C++](http://excript.com/cpp/calcular-media-aritmetica-array-cpp.html "Calculando a Média Aritmética com Arrays em C++")
 
 ##### Plus:
-1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
-2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+1. Aula 20 - Constante - [https://youtu.be/gvKVnC2wWZA](https://youtu.be/gvKVnC2wWZA)
+2. Aula 21 - Argumentos Main() - [https://youtu.be/9VbAOtmK1rg](https://youtu.be/9VbAOtmK1rg)
+> OBS: Aula 21 tem o termo ponteiro, não se preocupe ainda, é semana 7
 
+------------
 
 --------
 ##### Semana 6: (Funções) 24/08 à 31/08
