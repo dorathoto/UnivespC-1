@@ -11,21 +11,18 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 ## Atividades Semanal
 > Nesse módulo as atividades são agrupado por assunto, diferente do módulo 00 que era por qtd. de vídeos, assim são mais vídeos, mas sobre o mesmo assunto. Cada semana tem carga horária estimada de 1h.
 
-### Semana 5: 17/08 à 24/08
-*(Array Multimendicionais)*
 
-- [Arrays Multidimensionais em C++](http://excript.com/cpp/array-multidimensional-cpp.html "Arrays Multidimensionais em C++")
-- [Manipulação de Arrays Bidimensionais em C++](http://excript.com/cpp/manipular-array-bidimensional-cpp.html "Manipulação de Arrays Bidimensionais em C++")
-- [Laços Aninhados](http://excript.com/cpp/lacos-aninhados-cpp.html "Laços Aninhados")
-- [Função Matricial em C++](http://excript.com/cpp/funcao-matricial-cpp.html "Função Matricial em C++")
-- [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
-- [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
-- [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
-
+##### Semana 6: (Funções) 24/08 à 31/08
+- Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
+- Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
+- Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
+- Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
 ##### Plus:
-1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
-2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
-
+1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
+2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
+3. Textos sobre C++11, C++14 e outros padrões da linguagem
+https://www.embarcados.com.br/introducao-ao-cpp11/
+https://pt.wikipedia.org/wiki/C%2B%2B14
 
 ------------
 
@@ -91,20 +88,25 @@ Os vídeos estão dentro dos artigos, links abaixo:
 2. Aula 21 - Argumentos Main() - [https://youtu.be/9VbAOtmK1rg](https://youtu.be/9VbAOtmK1rg)
 > OBS: Aula 21 tem o termo ponteiro, não se preocupe ainda, é semana 7
 
+
+### Semana 5: 17/08 à 24/08
+*(Array Multimendicionais)*
+
+- [Arrays Multidimensionais em C++](http://excript.com/cpp/array-multidimensional-cpp.html "Arrays Multidimensionais em C++")
+- [Manipulação de Arrays Bidimensionais em C++](http://excript.com/cpp/manipular-array-bidimensional-cpp.html "Manipulação de Arrays Bidimensionais em C++")
+- [Laços Aninhados](http://excript.com/cpp/lacos-aninhados-cpp.html "Laços Aninhados")
+- [Função Matricial em C++](http://excript.com/cpp/funcao-matricial-cpp.html "Função Matricial em C++")
+- [Manipulando Planilhas em C++](http://excript.com/cpp/manipulando-planilhas-cpp.html "Manipulando Planilhas em C++")
+- [Introdução às Estruturas em C++](http://excript.com/cpp/introducao-as-estruturas-cpp.html "Introdução às Estruturas em C++")
+- [Utilizando struct em C++](http://excript.com/cpp/utilizando-struct-cpp.html "Utilizando struct em C++")
+
+##### Plus:
+1. Aula 15 - Vetores - [https://youtu.be/cdEccuCz34w](https://youtu.be/cdEccuCz34w "https://youtu.be/cdEccuCz34w")
+2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
+
+
 ------------
 
---------
-##### Semana 6: (Funções) 24/08 à 31/08
-- Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
-- Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
-- Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
-- Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
-##### Plus:
-1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
-2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
-3. Textos sobre C++11, C++14 e outros padrões da linguagem
-https://www.embarcados.com.br/introducao-ao-cpp11/
-https://pt.wikipedia.org/wiki/C%2B%2B14
 
 ##### Semana 7: (Ponteiros) 31/08 à 07/09
 - Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
