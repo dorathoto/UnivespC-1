@@ -1,6 +1,6 @@
 # Grupo 01 - 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-25%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-5-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-26%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-6-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 ------------
 
