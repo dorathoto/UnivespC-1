@@ -1,6 +1,6 @@
 # Grupo 01 - 
 
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-26%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-6-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-26%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-7-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 ------------
 
@@ -11,19 +11,17 @@ Depois de ter ~~sofrido~~ aprendido no grupo 00 agora vamos alcançar voos mais 
 ## Atividades Semanal
 > Nesse módulo as atividades são agrupado por assunto, diferente do módulo 00 que era por qtd. de vídeos, assim são mais vídeos, mas sobre o mesmo assunto. Cada semana tem carga horária estimada de 1h.
 
-
-##### Semana 6: (Funções) 24/08 à 31/08
-- Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
-- Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
-- Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
-- Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
+##### Semana 7: (Ponteiros) 31/08 à 07/09
+- Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
+- Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
+- Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
 ##### Plus:
-1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
-2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
-3. Textos sobre C++11, C++14 e outros padrões da linguagem
-https://www.embarcados.com.br/introducao-ao-cpp11/
-https://pt.wikipedia.org/wiki/C%2B%2B14
+1. O que é Orientação a Objetos (OO) - [https://youtu.be/7nmJ2oGRrbc](https://youtu.be/7nmJ2oGRrbc)
+2. PQ OO ? [https://youtu.be/JDSglOBvhw8](https://youtu.be/JDSglOBvhw8)
 
+> **Fim: Módulo "1"**
+
+Módulo 02 será Orientação a Objeto.
 ------------
 
 ### Semana 1 - 20/07 à 27/07
@@ -105,17 +103,18 @@ Os vídeos estão dentro dos artigos, links abaixo:
 2. Aula 16 - Vetores de caracteres strings - [https://youtu.be/NLTt1k-YXX0](https://youtu.be/NLTt1k-YXX0 "https://youtu.be/NLTt1k-YXX0")
 
 
+##### Semana 6: (Funções) 24/08 à 31/08
+- Aula 11 - Criando funções -  https://youtu.be/8Uvq3cNPTfY
+- Aula 12 - Sobrecarga de nomes de funções - https://youtu.be/ekFyTpEQi1A
+- Aula 13 - Criando módulos - https://youtu.be/fmM2vpBSZjQ
+- Aula 14 - Escopo de variável - https://youtu.be/2dO5tZAmS2k
+##### Plus:
+1. Aula 22 - Structs I - [https://youtu.be/YeRebCWzO6E](https://youtu.be/YeRebCWzO6E)
+2. Aula 23 - Structs II - [https://youtu.be/MYe6vwhze9Q](https://youtu.be/MYe6vwhze9Q)
+3. Textos sobre C++11, C++14 e outros padrões da linguagem
+https://www.embarcados.com.br/introducao-ao-cpp11/
+https://pt.wikipedia.org/wiki/C%2B%2B14
 ------------
 
 
-##### Semana 7: (Ponteiros) 31/08 à 07/09
-- Aula 17 - Ponteiros - https://youtu.be/U3Y9d5Jz4LQ
-- Aula 18 - Continuando com ponteiros - https://youtu.be/CrFq_L-UZ6g
-- Aula 19 - Ponteiros novamente - https://youtu.be/PGG6jr0uMyQ
-##### Plus:
-1. O que é Orientação a Objetos (OO) - [https://youtu.be/7nmJ2oGRrbc](https://youtu.be/7nmJ2oGRrbc)
-2. PQ OO ? [https://youtu.be/JDSglOBvhw8](https://youtu.be/JDSglOBvhw8)
 
-> **Fim: Módulo "1"**
-
-Módulo 02 será Orientação a Objeto.
